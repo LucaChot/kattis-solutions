@@ -1,3 +1,6 @@
+//Problem C Weak Vertices
+//https://open.kattis.com/contests/xjhzmw/problems/weakvertices
+
 #include <iostream>
 using namespace std;
 

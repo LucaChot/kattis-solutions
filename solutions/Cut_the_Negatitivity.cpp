@@ -1,3 +1,6 @@
+//Problem A Cut the Negativity
+//https://open.kattis.com/contests/xjhzmw/problems/cutthenegativity
+
 #include <iostream>
 using namespace std;
 

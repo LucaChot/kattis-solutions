@@ -1,3 +1,6 @@
+//Problem B Class Field Trip
+//https://open.kattis.com/contests/xjhzmw/problems/classfieldtrip
+
 #include <iostream>
 using namespace std;
 

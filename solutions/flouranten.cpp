@@ -1,24 +1,9 @@
-//https://open.kattis.com/problems/upprodun
+//https://open.kattis.com/problems/fluortanten
 
 #include <cstddef>
 #include <iostream>
 using namespace std;
 
-int main(){
-    int r, g;
-    cin >> r;
-    cin >> g;
-    for(; r > 0; r--){
-        int d = g / r;
-        g = g - d;
-        for(; d > 0; d--){
-            cout << "*";
-        }
-        cout << "\n";
-    }
-}
-
-/*
 int main(){
     int n;
     cin >> n;
@@ -51,4 +36,3 @@ int main(){
     cout << maximum;
     return 0;
 }
-*/

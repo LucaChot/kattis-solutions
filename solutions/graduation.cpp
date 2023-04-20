@@ -1,3 +1,5 @@
+//https://open.kattis.com/problems/skolavslutningen
+
 #include <cstddef>
 #include <iostream>
 using namespace std;
