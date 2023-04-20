@@ -1,3 +1,6 @@
+//https://open.kattis.com/contests/cecxsx/problems/drunkvigenere
+//NOT SOLVED 
+
 #include <iostream>
 using namespace std;
 

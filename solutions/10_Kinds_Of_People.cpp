@@ -1,3 +1,6 @@
+//https://open.kattis.com/problems/10kindsofpeople
+//NOT SOLVED
+
 #include <iostream>
 using namespace std;
 
