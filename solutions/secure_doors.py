@@ -1,3 +1,5 @@
+#https://open.kattis.com/contests/cecxsx/problems/securedoors
+
 num_entries = int(input())
 users = {}
 for i in range(num_entries):

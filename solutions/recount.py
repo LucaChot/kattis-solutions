@@ -1,3 +1,5 @@
+#https://open.kattis.com/contests/xjhzmw/problems/recount
+
 candidates = {}
 name = str(input())
 while name != "***":
